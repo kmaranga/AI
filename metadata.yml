@@ -1,0 +1,14 @@
+---
+:id: 152392120
+:submitters:
+- :name: Janavi Chadha
+  :email: janavic@seas.upenn.edu
+- :name: Naomi Maranga
+  :email: kmaranga@seas.upenn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-12-04 23:27:22.734744000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-12-04 15:27:22.734744000 Z
+:status: processed
+:score: 100.0
