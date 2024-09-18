@@ -1,14 +1,12 @@
 ---
-:id: 145943171
+:id: 149393010
 :submitters:
-- :name: Christine Ngugi
-  :email: cngugi@sas.upenn.edu
 - :name: Naomi Maranga
   :email: kmaranga@seas.upenn.edu
 :created_at: !ruby/object:ActiveSupport::TimeWithZone
-  utc: 2022-11-02 22:55:43.822205000 Z
+  utc: 2022-11-17 03:33:57.060434000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
     name: America/Los_Angeles
-  time: 2022-11-02 15:55:43.822205000 Z
+  time: 2022-11-16 19:33:57.060434000 Z
 :status: processed
-:score: 100.0
+:score: 99.0
