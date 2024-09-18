@@ -1,0 +1,14 @@
+---
+:id: 147554673
+:submitters:
+- :name: Lorenzo Castaneda
+  :email: lorca@seas.upenn.edu
+- :name: Naomi Maranga
+  :email: kmaranga@seas.upenn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-11-09 18:41:26.945329000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-11-09 10:41:26.945329000 Z
+:status: processed
+:score: 100.0
