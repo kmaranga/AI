@@ -36,7 +36,7 @@ class BinaryPerceptron(object):
         return resultVector
     
     def __init__(self, examples, iterations):
-        #you should train the weight vector w⃗  on the input data using iterations passes over the data set, then store w⃗  as an internal variable for future use. 
+        #train the weight vector w⃗  on the input data using iterations passes over the data set, then store w⃗  as an internal variable for future use. 
         self.weightedVector = dict()
 
         for i in range(iterations):
