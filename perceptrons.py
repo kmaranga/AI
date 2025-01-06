@@ -1,17 +1,4 @@
 
-student_name = "Naomi Maranga  "
-
-############################################################
-# Imports
-############################################################
-
-# import perceptrons_data as data
-# import matplotlib.pyplot as plt
-
-# Include your imports here, if any are used.
-
-
-
 ############################################################
 # Section 1: Perceptrons
 ############################################################
@@ -302,26 +289,4 @@ class MysteryClassifier2(object):
         
         return self.BinaryPerceptron.predict(dictValues) 
 
-############################################################
-# Section 3: Feedback
-############################################################
-
-feedback_question_1 = 10
-
-feedback_question_2 = """
-Loved the way that e could see datasets being trained-  thought that it was a really interesting hw! 
-"""
-
-feedback_question_3 = """
-Took me a while to understand bias properly and had to go to a few OH before it made sense 
-"""
-
-
-############################################################
-# Section 4: Testing
-############################################################
-# if dictValues["squVal"] < 1 :
-#   dictValues["bias"] = 1
-# else :
-#   dictValues["bias"] = 0
 
